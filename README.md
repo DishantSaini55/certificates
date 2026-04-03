@@ -14,3 +14,7 @@ Built real-world solution under 24-hour hackathon constraints
 
 ## 🎖 IEEE Participation Certificate
 🔗 [View Certificate](./IEEE.pdf)
+---
+
+## 🎖 NSS Certificate
+🔗 [View Certificate](./NSS.pdf)

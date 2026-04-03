@@ -7,7 +7,7 @@
 ---
 
 ## 🏆 Datathon 2026 – National Level Hackathon (Mumbai)
-24-hour hackathon participation  
+Built real-world solution under 24-hour hackathon constraints  
 🔗 [View Certificate](./Datathon.pdf)
 
 ---

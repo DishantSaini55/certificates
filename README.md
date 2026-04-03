@@ -1,8 +1,7 @@
 # Certificates
 # 📜 Certificates & Achievements
 
-## 🥉 HackVision 2025 – 3rd Place
-Organized by IEEE NSUT  
+## 🥉 HackVision 2025 – 3rd Place  
 🔗 [View Certificate](./Hackvision.pdf)
 
 ---
